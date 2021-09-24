@@ -1,0 +1,19 @@
+{
+  "name": "repo12",
+  "version": "1.0.0",
+  "description": "Arena - Day 12",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thecigura/Repo12.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thecigura/Repo12/issues"
+  },
+  "homepage": "https://github.com/thecigura/Repo12#readme"
+}
